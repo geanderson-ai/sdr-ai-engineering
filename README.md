@@ -12,3 +12,33 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+# Pipeline to run
+
+
+1. **Contexto e Objetivos**:
+   - Melhorar a taxa de conversão de propostas
+   - Reduzir o tempo de resposta
+
+2. **Coleta de Dados**:
+   - Histórico de propostas
+   - Perfis de clientes
+   - Resultados anteriores
+
+3. **Análise de Dados**:
+   - EDA para identificar padrões e tendências
+
+4. **Modelagem e Algoritmos**:
+   - Regressão, classificação, machine learning
+
+5. **Implementação**:
+   - Integração dos modelos em sistema de recomendação
+
+6. **Resultados e Impacto**:
+   - Aumento na taxa de conversão
+   - Redução do tempo de resposta
+   - KPIs relevantes
+
+7. **Tecnologias Utilizadas**:
+   - Python
+   - Azure
+
